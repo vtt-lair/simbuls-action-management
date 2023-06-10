@@ -12,7 +12,7 @@
 
 ![action hud](https://github.com/vtt-lair/simbuls-action-management/assets/33215552/e16d3e86-27e0-48d7-87ba-4c825edb23f4)
 
-#### Added `Token` Methods
+#### `Token` Methods
 
 - `setActionUsed(actionType, overrideCount = undefined)`: Sets the provided action type as used for this token and will update the management HUD accordingly.
   - `actionType` {String}: valid values are `action`, `bonus`, and `reaction`. Indicates which action type to modify uses for.
