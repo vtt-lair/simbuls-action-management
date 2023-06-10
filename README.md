@@ -10,7 +10,7 @@
 - When the action HUD is visible, clicking on an action icon will consume that action, clicking a used action will restore it for use.
 - Note: This management is for display purposes only and will not interfere with item use.
 
-![action-hud](https://user-images.githubusercontent.com/14878515/160882602-3e58868e-9e6e-444b-88b4-5189e647271e.jpg)
+![action hud](https://github.com/vtt-lair/simbuls-action-management/assets/33215552/e16d3e86-27e0-48d7-87ba-4c825edb23f4)
 
 #### Added `Token` Methods
 
@@ -20,4 +20,5 @@
 
   - `return value` {Object | `false`}: Current set of used actions and their counts, or `false` if any part of the update failed -- typically due to incorrect action type string.
 
-[Action Mgmt HUD DEMO](https://user-images.githubusercontent.com/14878515/131264314-d4017b8a-fa7a-4bf8-8f62-795145441605.mp4)
+[Action Mgmt HUD DEMO](https://github.com/vtt-lair/simbuls-action-management/assets/33215552/bf1e5410-3f4f-4725-ae70-e6186eabd434)
+
